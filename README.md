@@ -7,12 +7,7 @@
   <a href="https://t.me/Mogambo_odin">
     <img src="https://github.com/MOGAMBO-XD/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
-  <a href="https://t.me/MOGAMBO-XD">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
-  </a>
-  <a href="https://t.me/MOGAMBO-XDsupport">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
-  </a>
+ 
   <br>
   <a href="https://github.com/MOGAMBO-XD/File-Sharing-Bot/stargazers">
     <img src="https://img.shields.io/github/stars/MOGAMBO-XD/File-Sharing-Bot?style=social">
